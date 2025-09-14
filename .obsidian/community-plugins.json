@@ -1,8 +1,8 @@
 [
-  "obsidian-git",
   "calendar",
   "dataview",
   "obsidian-full-calendar",
   "templater-obsidian",
-  "quickadd"
+  "quickadd",
+  "github-sync"
 ]

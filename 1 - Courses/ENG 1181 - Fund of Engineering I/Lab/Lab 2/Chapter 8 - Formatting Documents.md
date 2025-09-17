@@ -1,5 +1,3 @@
-# Chapter 8: Formatting Documents - Summary Notes
-
 ## Overview & Importance
 
 - **Definition:** Document formatting is the layout and visual presentation of text on a page (fonts, spacing, margins, alignment, lists, etc.).

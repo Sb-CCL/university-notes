@@ -1,23 +1,14 @@
-## Overview & Importance
 
-- **Definition:** Document formatting is the layout and visual presentation of text on a page (fonts, spacing, margins, alignment, lists, etc.).
-- **A well-formatted document is:** Consistent, correct (meets requirements), and easy to read.
-- **Why it matters:**
-  - Affects how the reader perceives the information.
-  - Makes information more accessible by creating structure (headings) and highlighting key ideas (bold, lists).
-  - Creates a professional impression. Sloppy formatting can cause the audience to lose confidence in your message.
-
+---
 ## Basic Formatting Standards for Lab Docs
 
-_(Use these unless specified otherwise)_
-
-- **Font:** 11-12 pt., consistent professional font (e.g., Times New Roman, Cambria, Calibri).
+- **Font:** 11-12 pt (e.g., Times New Roman, Cambria, Calibri).
 - **Headings:** 14 pt. font for section headings.
 - **Spacing:** Single or 0.15 line spacing. No indentation on the first line of a paragraph. Add an extra line break _between_ paragraphs.
 - **Alignment:** Left-justified body text.
 - **Page Numbers:** Bottom right corner, starting on the first page of the main text (not cover page or TOC).
 - **Margins:** 1 inch.
-
+---
 ## Using Microsoft Word Features Effectively
 
 Use built-in tools to maintain formatting during edits.
@@ -26,14 +17,14 @@ Use built-in tools to maintain formatting during edits.
 - **Page Breaks:** Use the `Page Break` option, not multiple returns.
 - **Hanging Indents:** Use the Paragraph Options feature for reference lists.
 - **List Formatting:** Use the list feature to ensure consistent spacing and alignment, especially for multi-line list items.
-
+---
 ## Using Templates & Styles
 
 - **Templates:** If provided, use them. Save the template file as your new document first.
 - **Styles:** A set of formatting applied automatically.
   - Use Word's built-in styles (and modify them if needed) to save time.
   - Benefits: Simplifies creating a Table of Contents, adjusting labels, and using the Outline feature.
-
+---
 ## Key Takeaways
 
 1.  Use generally accepted technical document standards if none are specified.

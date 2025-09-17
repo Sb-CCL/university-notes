@@ -15,7 +15,6 @@
 **Interview Resource:** [NPR Interview with MTI Engineer Bob Ebeling](https://www.npr.org/sections/thetwo-way/2016/01/28/464744781/30-years-after-disaster-challenger-engineer-still-blames-himself)
 
 ---
-
 ## Lab Overview
 
 One team-submitted PDF Lab Memo, formatted according to the [Tech Comm Guide (Ch. 8)](https://ohiostate.pressbooks.pub/feptechcomm/).
@@ -42,7 +41,6 @@ One team-submitted PDF Lab Memo, formatted according to the [Tech Comm Guide (Ch
     *   Explain how using this strategy affects the reader and why it's desirable in technical communication.
 
 ---
-
 ## Lab Procedure: Part 2 - The Challenger Memo Problem
 
 **Goal:** Apply technical writing principles and recognize the importance of **audience**.
@@ -60,7 +58,6 @@ One team-submitted PDF Lab Memo, formatted according to the [Tech Comm Guide (Ch
 *   **Focus:** Use a bulleted list to emphasize the **differences** in audience needs (Internal Supervisor vs. External Client) and what changes you would make to the email because of them. *Do not write the full email.*
 
 ---
-
 ## Final Submission Requirements
 
 1.  **Format:** A single Lab Memo (as defined in Tech Comm Guide Ch. 5.1).

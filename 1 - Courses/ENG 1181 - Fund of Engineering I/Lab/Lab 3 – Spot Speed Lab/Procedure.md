@@ -6,14 +6,8 @@
 **Purpose of this Lab:**
 Team's objective is to perform a **Spot Speed Study** on a section of E Spring Avenue near Davidson Hall. The goal is to collect and analyze vehicle speed data to assess whether the posted speed limit is appropriate for ensuring pedestrian safety. You will apply statistical methods to your data, interpret the results, and communicate your findings and recommendations in a professional manner.
 
-**What is Expected of You and Your Team:**
-*   **Collaboration:** Work effectively in a team to collect accurate data.
-*   **Analysis:** Use spreadsheet software (like Excel or Google Sheets) to perform statistical calculations on the collected data.
-*   **Critical Thinking:** Evaluate the quality of your data, identify potential errors, and propose improvements to the study methodology.
-*   **Professional Communication:** Individually synthesize the team's work into a formal email report addressed to a city official, demonstrating your ability to communicate technical information clearly and persuasively.
-
 **Final Deliverable:**
-Each team member must individually submit a **Formal Email as a PDF** addressed to Sam Fakename, City State Traffic Management Director. This email must contain your analysis, answers to all lab questions, and recommendations.
+Each team member must individually submit a **Formal Email as a PDF** addressed to Sam Fakename, Columbus State Traffic Management Director. This email must contain your analysis, answers to all lab questions, and recommendations.
 
 ---
 

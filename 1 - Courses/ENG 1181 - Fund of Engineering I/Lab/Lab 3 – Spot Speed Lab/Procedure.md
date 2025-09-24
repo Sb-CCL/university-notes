@@ -11,11 +11,9 @@ Each team member must individually submit a **Formal Email as a PDF** addressed 
 
 ---
 
-#### **2. Team Development Process: A Step-by-Step Guide**
+# **2. Team Development Process: A Step-by-Step Guide**
 
-Follow these phases to complete the lab correctly and efficiently.
-
-##### **Phase 1: Team Setup and Data Collection (Procedure Steps 1-5)**
+## **Phase 1: Team Setup and Data Collection (Procedure Steps 1-5)**
 
 *   **Instruction 1: Form Teams**
     *   Divide your 4-person team into two pairs (Team A and Team B).

@@ -61,7 +61,6 @@ Each team member must individually submit a **Formal Email as a PDF** addressed 
 
 *   **Instruction 8: Calculate Relative Frequency (Column E)**
     *   **Definition:** Relative Frequency = (Frequency of a speed group) / (Total number of vehicles) * 100%.
-    *   **Formula Example:** If your frequency is in cell D2 and total vehicles (40) is in cell `$D$20`, the formula in E2 would be: `=(D2/$D$20)*100`.
     *   Use **absolute referencing** (`$D$20`) for the total so you can copy the formula down the column. Format the result to have one decimal place.
 
 *   **Instruction 9: Calculate Cumulative Frequency (Column F)**

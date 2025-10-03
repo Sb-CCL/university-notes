@@ -2,7 +2,8 @@
 course: {{course}}
 lecture_topic: {{topic}}
 date: {{date}}
-professor: 
+professor:
+tags: [{{course}}, lecture, {{topic}}]
 ---
 
 # {{title}}
@@ -14,3 +15,10 @@ professor:
 ## Summary
 
 ## Connections to Other Topics
+- [[]] -
+- [[]] -
+
+## Related MOCs
+- [[MOC - {{course}}]]
+
+#lecture #{{course}}

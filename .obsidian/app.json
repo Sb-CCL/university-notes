@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "trashOption": "none",
-  "attachmentFolderPath": "4 - Media"
+  "attachmentFolderPath": "/",
+  "promptDelete": false
 }

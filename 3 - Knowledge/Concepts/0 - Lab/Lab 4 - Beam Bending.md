@@ -100,7 +100,7 @@ $$\delta = \frac{F}{6EI}S^2(3L-S)$$
 - $E$ = Young's Modulus (material stiffness)
 - $I$ = Moment of Inertia (shape stiffness)
 - $L$ = Distance to force application point 
-- $S$ = Distance to measurement point
+- $S$ = Distance to dial indicator
 
 - The term $S^2(3L-S)$ accounts for:
   - Where we **apply** the force ($L$)

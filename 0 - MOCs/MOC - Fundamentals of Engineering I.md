@@ -1,5 +1,3 @@
-# MOC - Fundamentals of Engineering I
-
 ## 🎯 A+ Performance Hub
 **Target Grade**: A+ | **Status**: Active Learning | **Total Concepts**: 68
 

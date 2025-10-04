@@ -1,8 +1,8 @@
 ---
 concept: beam-bending
-topic: {{topic-area}}
-difficulty: {{fundamental|intermediate|advanced|expert}}
-tags: [inertia, theoretical-deflection, youngs-modulus, stress, strain]
+topic: lab
+difficulty: intermediate
+tags: [inertia, theoretical-deflection, youngs-modulus, stress, strain, lab]
 status: learning
 week: 4
 ---

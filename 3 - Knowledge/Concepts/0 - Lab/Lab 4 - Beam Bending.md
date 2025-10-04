@@ -17,7 +17,9 @@ By analyzing and collecting data, we can determine how solid materials exhibit a
 
 
 ## Stress ($\sigma$)
-$$\sigma = \frac{F}{A}$$
+---
+**Stress** is how much force is being applied over an area. The larger the area of a material, the more force it will require, increase the stress
+$$\ (stress) \ \sigma = \frac{F}{A}$$
 Where:
 - $\sigma$ = Stress (Pa)
 - $F$ = Applied Force (N)

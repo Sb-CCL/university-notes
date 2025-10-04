@@ -39,7 +39,9 @@ Where:
 
 ## Young's Modulus ($E$)
 ---
-Young's Modulus is a material's **resistance to being stressed**, showing how still or flexible it is. For example, a steel rod has a high Young's Modulus compared to rubber band.
+Young's Modulus is a material's **resistance to being stressed**, showing how still or flexible it is. 
+
+Ex: a steel rod has a high Young's Modulus compared to rubber band.
 $$E = \frac{\sigma}{\epsilon} = \frac{FL_0}{A\Delta L}$$
 Where:
 - $E$ = Young's Modulus (Pa)
@@ -60,6 +62,13 @@ Where:
 In many cases, engineers design structures so that the maximum stress in buildings or airplanes will never exceed the Proportional Limit (Point 2), even under the most adverse conditions.
 
 ![[Pasted image 20251004150710.png]]
+
+## Moment of Inertia (I)
+---
+Moment of Inertia measures how a beam's cross-sectional shape resist bending, not about the beams material, just its width, length, and thickness.
+
+For example: 
+
 ## Summary
 ---
 **Putting It All Together:**

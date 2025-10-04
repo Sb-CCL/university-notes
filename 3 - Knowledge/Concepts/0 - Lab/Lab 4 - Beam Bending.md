@@ -18,14 +18,18 @@ By analyzing and collecting data, we can determine how solid materials exhibit a
 
 ## Stress ($\sigma$)
 ---
-**Stress** is how much force is being applied over an area. The larger the area of a material, the more force it will require, increase the stress
-$$\ (stress) \ \sigma = \frac{F}{A}$$
-Where:
+**Stress** is how much force is being applied over an area. For example you need to add more force to a thick, wide rubber band but less force to a needle on a balloon to pop it.
+
+Stress = How "concentrated" the force is.
+
+$$\sigma = \frac{F}{A}$$
 - $\sigma$ = Stress (Pa)
 - $F$ = Applied Force (N)
 - $A$ = Cross-sectional Area (m²)
 
 ## Strain ($\epsilon$)
+---
+Strain is how much a material stretches or bends
 $$\epsilon = \frac{\Delta L}{L_0}$$
 Where:
 - $\epsilon$ = Strain (unitless)

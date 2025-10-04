@@ -75,15 +75,66 @@ $$I = \frac{w \cdot t^3}{12}$$
 - $w$ = Width of the beam
 - $t$ = Thickness/height of the beam
 
-Thickness is Cubed ($t^3$)
+**Thickness is Cubed ($t^3$)**
 - Thickness has a **massive effect** on stiffness
 - Doubling the thickness makes the beam **8 times** stiffer (since $2^3 = 8$)
 - This explains why putting material far from the center (like in I-beams) is so effective
 
-Pure Geometry Factor
+**Pure Geometry Factor**
 - Notice the formula only uses dimensions ($w$ and $t$)
 - A steel beam and wooden beam with same $w$ and $t$ have the **same $I$**
 - Material differences are handled by **Young's Modulus ($E$)**
+
+## Deflection (δ) at Location S
+---
+Deflection is how much a beam bends or moves from its initial starting point when a force is applied. For example, a diving board bends when force is applied to it at different points, location S.
+
+In the beam bending apparatus:
+- **Force ($F$)** is applied at distance **$L = 8.75''$** from the fixed end
+- **Deflection ($\delta$)** is measured at distance **$S = 7.5''$** from the fixed end
+- The dial indicator measures how much the beam bends downward at point S
+
+### The Deflection Equation
+$$\delta = \frac{F}{6EI}S^2(3L-S)$$
+
+**Where:**
+- $\delta$ = Deflection at location S (measured by dial indicator)
+- $F$ = Applied force
+- $E$ = Young's Modulus (material stiffness)
+- $I$ = Moment of Inertia (shape stiffness)
+- $L$ = Distance to force application point ($8.75''$)
+- $S$ = Distance to measurement point ($7.5''$)
+
+**Force Relationship**
+- Deflection is **directly proportional** to applied force ($F$)
+- Double the force → double the deflection (for same material/size)
+
+**Material & Shape Stiffness**
+- Deflection is **inversely proportional** to $EI$ (Young's Modulus × Moment of Inertia)
+- **Higher $E$** (stiffer material) → less deflection
+- **Higher $I$** (better shape) → less deflection
+
+**Geometry Factors**
+- The term $S^2(3L-S)$ accounts for:
+  - Where we **apply** the force ($L$)
+  - Where we **measure** the deflection ($S$)
+  - These are fixed by the experimental setup
+
+### Practical Use in the Lab
+1. **Measure** deflection ($\delta$) with known forces ($F$)
+2. **Calculate** the ratio $\frac{F}{\delta}$ from experimental data
+3. **Solve for Young's Modulus** by rearranging the equation:
+
+$$E = \frac{F}{6I\delta}S^2(3L-S)$$
+
+### Key Insight
+This setup lets us **isolate and measure** Young's Modulus ($E$) because:
+- $L$ and $S$ are fixed by the apparatus
+- $I$ can be calculated from beam dimensions
+- $F$ is controlled with known weights
+- $\delta$ is directly measured
+
+**Bottom line:** By measuring how much known forces bend the beam, we can calculate exactly how stiff the material is!
 ## Summary
 ---
 **Putting It All Together:**

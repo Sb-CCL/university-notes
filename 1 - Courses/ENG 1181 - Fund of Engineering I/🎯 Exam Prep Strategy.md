@@ -2,7 +2,7 @@
 course: ENG 1181
 type: exam-preparation
 priority: high
-tags: [exam-prep, study-strategy, eng1181]
+tags: [exam-prep, study-strategy]
 ---
 
 # 🎯 A+ Exam Preparation Strategy

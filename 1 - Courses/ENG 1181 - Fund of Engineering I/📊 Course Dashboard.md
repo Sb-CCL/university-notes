@@ -3,7 +3,7 @@ course: ENG 1181
 semester: Current
 target_grade: A+
 current_status: active
-tags: [eng1181, dashboard, course-management]
+tags: [dashboard, course-management]
 ---
 
 # 📊 ENG 1181 Course Dashboard

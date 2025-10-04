@@ -1,12 +1,5 @@
-## 🎯 A+ Performance Hub
-**Target Grade**: A+ | **Status**: Active Learning | **Total Concepts**: 68
-
-### 📊 Quick Access
-- [[1 - Courses/ENG 1181 - Fund of Engineering I/📊 Course Dashboard|📊 Course Dashboard]] - Grade tracking & study schedule
-- [[1 - Courses/ENG 1181 - Fund of Engineering I/🎯 Exam Prep Strategy|🎯 Exam Prep Strategy]] - A+ optimization plan
 
 ---
-
 ## 🎓 Learning Path Overview
 
 ```mermaid

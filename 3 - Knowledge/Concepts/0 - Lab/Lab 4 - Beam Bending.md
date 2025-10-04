@@ -39,10 +39,18 @@ Where:
 
 ## Young's Modulus ($E$)
 ---
-Young's Modulus is a material's resistance to being stressed
+Young's Modulus is a material's **resistance to being stressed**, showing how still or flexible it is. For example, a steel rod has a high Young's Modulus compared to rubber band.
 $$E = \frac{\sigma}{\epsilon} = \frac{FL_0}{A\Delta L}$$
 Where:
 - $E$ = Young's Modulus (Pa)
 - $\sigma$ = Stress (Pa)
 - $\epsilon$ = Strain (unitless)
 
+## Summary
+---
+**Putting It All Together:**
+- **Stress** is how hard you push them.
+- **Strain** is how far they stumble.
+- **Young's Modulus** is their inherent "stability."
+
+Pushing a sumo wrestler (high Young's Modulus) causes very little stumbling (strain), even with a hard push (stress).

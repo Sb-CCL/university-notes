@@ -21,6 +21,7 @@ By analyzing and collecting data, we can determine how solid materials exhibit a
 Stress = How "concentrated" the force is.
 
 $$\sigma = \frac{F}{A}$$
+**Where:**
 - $\sigma$ = Stress (Pa)
 - $F$ = Applied Force (N)
 - $A$ = Cross-sectional Area (m²)
@@ -32,18 +33,16 @@ $$\sigma = \frac{F}{A}$$
 Strain = How much it "gives" or deforms.
 
 $$\epsilon = \frac{\Delta L}{L_0}$$
-Where:
+**Where:**
 - $\epsilon$ = Strain (unitless)
 - $\Delta L$ = Change in Length (m)
 - $L_0$ = Original Length (m)
 
 ## Young's Modulus ($E$)
 ---
-Young's Modulus is a material's **resistance to being stressed**, showing how still or flexible it is. 
-
-Ex: a steel rod has a high Young's Modulus compared to rubber band.
+Young's Modulus is a material's **resistance to being stressed**, showing how still or flexible it is. For example, a steel rod has a high Young's Modulus compared to rubber band.
 $$E = \frac{\sigma}{\epsilon} = \frac{FL_0}{A\Delta L}$$
-Where:
+**Where:**
 - $E$ = Young's Modulus (Pa)
 - $\sigma$ = Stress (Pa)
 - $\epsilon$ = Strain (unitless)
@@ -65,10 +64,23 @@ In many cases, engineers design structures so that the maximum stress in buildin
 
 ## Moment of Inertia (I)
 ---
-Moment of Inertia measures how a beam's cross-sectional shape resist bending, not about the beams material, just its width, length, and thickness.
+Moment of Inertia measures the shape's effectiveness at resisting bending, for example bending a rectangle is more difficult if you bend it on its side. For example, the orientation changes its resistance to bending. 
 
-For example: 
+$$I = \frac{w \cdot t^3}{12}$$
+**Where:**
+- $I$ = Moment of Inertia (m⁴ or in⁴)
+- $w$ = Width of the beam
+- $t$ = Thickness/height of the beam
 
+#### 1. Thickness is Cubed ($t^3$)
+- Thickness has a **massive effect** on stiffness
+- Doubling the thickness makes the beam **8 times** stiffer (since $2^3 = 8$)
+- This explains why putting material far from the center (like in I-beams) is so effective
+
+#### 2. Pure Geometry Factor
+- Notice the formula only uses dimensions ($w$ and $t$)
+- A steel beam and wooden beam with same $w$ and $t$ have the **same $I$**
+- Material differences are handled by **Young's Modulus ($E$)**
 ## Summary
 ---
 **Putting It All Together:**

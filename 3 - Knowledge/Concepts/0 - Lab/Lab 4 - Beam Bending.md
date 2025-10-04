@@ -66,18 +66,21 @@ In many cases, engineers design structures so that the maximum stress in buildin
 ---
 Moment of Inertia measures the shape's effectiveness at resisting bending, for example bending a rectangle is more difficult if you bend it on its side. For example, the orientation changes its resistance to bending. 
 
+- **Bending the easy way** (thin dimension vertical) → bends easily → **Low $I$**
+- **Bending the hard way** (flat, wide dimension vertical) → very stiff → **High $I$**
+
 $$I = \frac{w \cdot t^3}{12}$$
 **Where:**
 - $I$ = Moment of Inertia (m⁴ or in⁴)
 - $w$ = Width of the beam
 - $t$ = Thickness/height of the beam
 
-#### 1. Thickness is Cubed ($t^3$)
+Thickness is Cubed ($t^3$)
 - Thickness has a **massive effect** on stiffness
 - Doubling the thickness makes the beam **8 times** stiffer (since $2^3 = 8$)
 - This explains why putting material far from the center (like in I-beams) is so effective
 
-#### 2. Pure Geometry Factor
+Pure Geometry Factor
 - Notice the formula only uses dimensions ($w$ and $t$)
 - A steel beam and wooden beam with same $w$ and $t$ have the **same $I$**
 - Material differences are handled by **Young's Modulus ($E$)**

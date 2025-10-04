@@ -53,4 +53,4 @@ Where:
 - **Strain** is how far they stumble.
 - **Young's Modulus** is their inherent "stability."
 
-Pushing a sumo wrestler (high Young's Modulus) causes very little stumbling (strain), even with a hard push (stress).
+Pulling on a rubber band (low Young's Modulus) causes a lot of deformation and stretching (strain), even with a small pulling (stress).

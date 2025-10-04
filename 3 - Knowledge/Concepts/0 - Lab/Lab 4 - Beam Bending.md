@@ -46,6 +46,20 @@ Where:
 - $\sigma$ = Stress (Pa)
 - $\epsilon$ = Strain (unitless)
 
+| Material       | Young's Modulus (GPa) | Young's Modulus (psi) |
+| -------------- | --------------------- | --------------------- |
+| Polystyrene    | 3                     | 435,000               |
+| Basswood       | 35                    | 5,000,000             |
+| Aluminum       | 70                    | 10,000,000            |
+| Carbon Fiber   | 70                    | 10,000,000            |
+| Titanium       | 105                   | 15,000,000            |
+| Copper         | 130                   | 18,900,000            |
+| Steel (carbon) | 210                   | 30,000,000            |
+| Diamond        | 1050                  | 150,000,000           |
+**Low E (Flexible):** Polystyrene, Basswood
+Medium E: Aluminum, Carbon Fiber
+High E (Stiff): Steel, Diamond
+
 ## Summary
 ---
 **Putting It All Together:**

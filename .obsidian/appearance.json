@@ -1,6 +1,7 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "Obsidianotion",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
   "baseFontSize": 16,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "accentColor": "#d6d6d6"
 }

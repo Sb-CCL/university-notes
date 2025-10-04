@@ -192,7 +192,3 @@ graph TD
 2. **Spaced Repetition**: Review concepts at increasing intervals
 3. **Practice Coding**: Write code daily, even for 15 minutes
 4. **Teach Back**: Explain concepts to others (or to yourself)
-
----
-
-#engineering #matlab #electricity #fundamentals #eng1181 #moc #study-guide

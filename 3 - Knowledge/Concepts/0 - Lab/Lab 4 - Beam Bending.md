@@ -89,49 +89,23 @@ $$I = \frac{w \cdot t^3}{12}$$
 ---
 Deflection is how much a beam bends or moves from its initial starting point when a force is applied. For example, a diving board bends when force is applied to it at different points, location S.
 
-- $F$  = the force being applied to pull or push
-- **$\delta$ = how much it stretches or deforms
-- **Location S** = where you choose to measure the stretch
+- Deflection is **inversely proportional** to $EI$ (Young's Modulus × Moment of Inertia)
+- **Higher $E$** (stiffer material) → less deflection
+- **Higher $I$** (better shape) → less deflection
 
-### The Deflection Equation
 $$\delta = \frac{F}{6EI}S^2(3L-S)$$
-
 **Where:**
--  = how much it stretches or deforms
-- $F$ = Force on an object
+- $\delta$ = how much it stretches or deforms
+- $F$ = Force put on an object
 - $E$ = Young's Modulus (material stiffness)
 - $I$ = Moment of Inertia (shape stiffness)
 - $L$ = Distance to force application point 
 - $S$ = Distance to measurement point
 
-**Force Relationship**
-- Deflection is **directly proportional** to applied force ($F$)
-- Double the force → double the deflection (for same material/size)
-
-**Material & Shape Stiffness**
-- Deflection is **inversely proportional** to $EI$ (Young's Modulus × Moment of Inertia)
-- **Higher $E$** (stiffer material) → less deflection
-- **Higher $I$** (better shape) → less deflection
-
-**Geometry Factors**
 - The term $S^2(3L-S)$ accounts for:
   - Where we **apply** the force ($L$)
   - Where we **measure** the deflection ($S$)
   - These are fixed by the experimental setup
-
-### Practical Use in the Lab
-1. **Measure** deflection ($\delta$) with known forces ($F$)
-2. **Calculate** the ratio $\frac{F}{\delta}$ from experimental data
-3. **Solve for Young's Modulus** by rearranging the equation:
-
-$$E = \frac{F}{6I\delta}S^2(3L-S)$$
-
-### Key Insight
-This setup lets us **isolate and measure** Young's Modulus ($E$) because:
-- $L$ and $S$ are fixed by the apparatus
-- $I$ can be calculated from beam dimensions
-- $F$ is controlled with known weights
-- $\delta$ is directly measured
 
 **Bottom line:** By measuring how much known forces bend the beam, we can calculate exactly how stiff the material is!
 ## Summary

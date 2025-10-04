@@ -169,7 +169,3 @@ status: learning
 - [ ] Update status tags based on understanding
 - [ ] Consolidate similar or redundant tags
 - [ ] Add missing tags to untagged content
-
----
-
-#meta #tagging #organization #obsidian #eng1181

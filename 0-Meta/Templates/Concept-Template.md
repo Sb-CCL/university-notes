@@ -48,4 +48,4 @@ week: {{week-number}}
 ## Summary
 [One paragraph summary of the concept and its importance]
 
-#{{subject}} #{{concept-name}} #{{difficulty}} #eng1181
+#{{subject}} #{{concept-name}} #{{difficulty}} 

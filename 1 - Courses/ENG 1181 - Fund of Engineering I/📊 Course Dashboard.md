@@ -73,5 +73,3 @@ Week of ___:
 - [[0 - MOCs/MOC - Fundamentals of Engineering I|Main MOC]]
 - Course resources in [[1 - Courses/ENG 1181 - Fund of Engineering I/Resources]]
 - Templates: [[0-Meta/Templates]]
-
-#dashboard #study-planning #eng1181

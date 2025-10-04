@@ -135,5 +135,3 @@ Week 2: Practice problems and application
 Week 3: Integration and mock exams
 Week 4: Review and final preparation
 ```
-
-#study-strategy #exam-preparation #a-plus-performance

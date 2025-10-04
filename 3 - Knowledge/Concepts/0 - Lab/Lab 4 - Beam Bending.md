@@ -56,10 +56,10 @@ Where:
 | Copper         | 130                   | 18,900,000            |
 | Steel (carbon) | 210                   | 30,000,000            |
 | Diamond        | 1050                  | 150,000,000           |
-**Low E (Flexible):** Polystyrene, Basswood
-Medium E: Aluminum, Carbon Fiber
-High E (Stiff): Steel, Diamond
 
+In many cases, engineers design structures so that the maximum stress in buildings or airplanes will never exceed the Proportional Limit (Point 2), even under the most adverse conditions.
+
+![[Pasted image 20251004150710.png]]
 ## Summary
 ---
 **Putting It All Together:**

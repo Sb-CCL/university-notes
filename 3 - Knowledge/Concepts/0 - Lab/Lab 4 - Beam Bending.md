@@ -89,21 +89,20 @@ $$I = \frac{w \cdot t^3}{12}$$
 ---
 Deflection is how much a beam bends or moves from its initial starting point when a force is applied. For example, a diving board bends when force is applied to it at different points, location S.
 
-In the beam bending apparatus:
-- **Force ($F$)** is applied at distance **$L = 8.75''$** from the fixed end
-- **Deflection ($\delta$)** is measured at distance **$S = 7.5''$** from the fixed end
-- The dial indicator measures how much the beam bends downward at point S
+- $F$  = the force being applied to pull or push
+- **$\delta$ = how much it stretches or deforms
+- **Location S** = where you choose to measure the stretch
 
 ### The Deflection Equation
 $$\delta = \frac{F}{6EI}S^2(3L-S)$$
 
 **Where:**
-- $\delta$ = Deflection at location S (measured by dial indicator)
-- $F$ = Applied force
+-  = how much it stretches or deforms
+- $F$ = Force on an object
 - $E$ = Young's Modulus (material stiffness)
 - $I$ = Moment of Inertia (shape stiffness)
-- $L$ = Distance to force application point ($8.75''$)
-- $S$ = Distance to measurement point ($7.5''$)
+- $L$ = Distance to force application point 
+- $S$ = Distance to measurement point
 
 **Force Relationship**
 - Deflection is **directly proportional** to applied force ($F$)

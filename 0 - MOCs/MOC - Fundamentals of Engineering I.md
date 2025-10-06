@@ -1,12 +1,5 @@
-## 🎯 A+ Performance Hub
-**Target Grade**: A+ | **Status**: Active Learning | **Total Concepts**: 68
-
-### 📊 Quick Access
-- [[1 - Courses/ENG 1181 - Fund of Engineering I/📊 Course Dashboard|📊 Course Dashboard]] - Grade tracking & study schedule
-- [[1 - Courses/ENG 1181 - Fund of Engineering I/🎯 Exam Prep Strategy|🎯 Exam Prep Strategy]] - A+ optimization plan
 
 ---
-
 ## 🎓 Learning Path Overview
 
 ```mermaid
@@ -27,8 +20,8 @@ graph TD
 ### ⚡ 1. Basic Electricity (6 concepts)
 **Foundation**: Start here for electrical engineering fundamentals
 
-- [[3 - Knowledge/Concepts/1 - Basic Electricity/1.6 Resistors|1.6 Resistors]] ✅
-- [[3 - Knowledge/Concepts/1 - Basic Electricity/1.7 Ohm's Law|1.7 Ohm's Law]] ✅
+- [[3 - Knowledge/Concepts/1 - Basic Electricity/1.6 Resistors|1.6 Resistors]] 
+- [[3 - Knowledge/Concepts/1 - Basic Electricity/1.7 Ohm's Law|1.7 Ohm's Law]] 
 - [[3 - Knowledge/Concepts/1 - Basic Electricity/1.17 Series and parallel combinations|1.17 Series and parallel combinations]]
 - [[3 - Knowledge/Concepts/1 - Basic Electricity/1.18 Voltage divider|1.18 Voltage divider]]
 - [[3 - Knowledge/Concepts/1 - Basic Electricity/1.26 Binary numbers|1.26 Binary numbers]]

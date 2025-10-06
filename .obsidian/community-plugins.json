@@ -1,8 +1,7 @@
 [
-  "calendar",
   "dataview",
-  "obsidian-full-calendar",
   "templater-obsidian",
   "quickadd",
-  "fit"
+  "fit",
+  "tasknotes"
 ]

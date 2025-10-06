@@ -4,6 +4,8 @@
   "attachmentFolderPath": "/",
   "promptDelete": false,
   "userIgnoreFilters": [
-    "0-Meta/"
+    "0-Meta/",
+    "_fit/",
+    "_fit/0 - MOCs/"
   ]
 }

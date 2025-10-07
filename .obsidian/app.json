@@ -6,6 +6,8 @@
   "userIgnoreFilters": [
     "0-Meta/",
     "_fit/",
-    "_fit/0 - MOCs/"
+    "_fit/0 - MOCs/",
+    "5 - Events/",
+    "3 - Knowledge/Concepts/0 - Lab/"
   ]
 }

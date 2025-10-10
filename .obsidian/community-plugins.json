@@ -3,5 +3,6 @@
   "templater-obsidian",
   "quickadd",
   "fit",
-  "tasknotes"
+  "tasknotes",
+  "obsidian-tikzjax"
 ]

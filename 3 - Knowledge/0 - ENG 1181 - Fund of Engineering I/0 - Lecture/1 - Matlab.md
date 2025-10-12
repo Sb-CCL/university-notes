@@ -36,6 +36,148 @@ Matlab |Why is using a script file convenient? :: It can be edited (corrected an
 
 Matlab | What are the rules of variable naming? :: can be up to 63 char long must begin with a letter, can only contain letters, digits, and underscore, and is case sensitive
 
-Matlab |Where are script files executed from? :: The Command Window 
+Matlab | Where are script files executed from? :: The Command Window 
 
+Matlab | Whats the command to change from current folder? :: `cd 'new folder'` in single quote marks 
 
+Matlab | Why use a semicolon `;` at the end of a a command?  :: It suppresses output, as its useful for preventing displaying large outputs
+
+Matlab | Why use a percent sign `%` at the start of a line? :: Matlab treats this as a comment and doesn't execute the code 
+
+Matlab | what does `cls`  do? :: It clears the code from the command line 
+
+Matlab | What is the order of precedence? :: Parentheses is first, exponents second, Multiplication & Divisions third, find finally addition and subtraction is last. 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
+
+Matlab | :: 
